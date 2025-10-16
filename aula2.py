@@ -22,3 +22,5 @@ print("(tipo:",type(letra),")")
 
 print("o valor de aberto é", aberto, end="")
 print("(tipo:",type(aberto),")")
+
+
